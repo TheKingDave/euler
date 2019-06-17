@@ -11,3 +11,4 @@ These are my solutions for the problems on ProjectEuler
 * **8** [Largest product in a series](https://projecteuler.net/problem=8)
 * **9** [Special Pythagorean triplet](https://projecteuler.net/problem=9)
 * **10** [Summation of primes](https://projecteuler.net/problem=10)
+* **11** [Largest product in a grid](https://projecteuler.net/problem=11)
